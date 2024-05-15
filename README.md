@@ -8,6 +8,7 @@
 A segmentação de imagens é essencial na visão computacional, permitindo analisar imagens detalhadamente para diversas aplicações. Ela divide uma imagem em partes, como objetos ou pixels individuais, revelando insights valiosos sobre sua estrutura.
 <br>Objetivos como identificação precisa de objetos, delimitação de regiões e extração de características impulsionam avanços em áreas como medicina, robótica e segurança.
 <br>Para ilustrar sua importância, examinamos 5 diferentes tipos de placas, desde sinais de trânsito até avisos de rua. A segmentação dessas imagens traz benefícios práticos, como melhorar a segurança viária e facilitar a navegação autônoma em ambientes urbanos complexos.
+<br>Este projeto foi desenvolvido na <a href="https://www.usf.edu.br">Universidade São Franscisco</a> durante o 7º semestre de Engenharia da Computção na matéria de Computação Visual lecionada pelo <a href="https://www.usf.edu.br">Prof. José Guilherme Picolo</a>.
 <br>
 <br>
 
