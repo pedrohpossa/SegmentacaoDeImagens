@@ -11,7 +11,10 @@ A segmentação de imagens é essencial na visão computacional, permitindo anal
 <br>Este projeto foi desenvolvido na <a href="https://www.usf.edu.br">Universidade São Franscisco</a> durante o 7º semestre de Engenharia da Computção na matéria de Computação Visual lecionada pelo <a href="https://www.usf.edu.br">Prof. José Guilherme Picolo</a>.
 <br>
 <br>
-
+Como dito acima, nosso tema escolhido para o projeto foram placas!
+<img src="https://pbs.twimg.com/media/GCcsHE8XYAAzsxz?format=jpg&name=medium" width="300" height="400" align="center"/>
+<br>
+<br>
 <h2 align="left">🧮 Ferramentas e Tecnologias </h2>
 <a href="https://processing.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/processing/processing-original.svg" width="40" height="40"/>
